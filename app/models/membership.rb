@@ -1,0 +1,2 @@
+class Membership < Personification
+end
